@@ -2,6 +2,10 @@
 
 Раздел для практических сценариев, архитектурных разборов и сравнений конкретных реализаций.
 
+## Материалы
+
+- [Anthropic: harness design для long-running app development](anthropic-harness-design-long-running-apps.md)
+
 ## Что хранить в этом разделе
 
 - проектные кейсы и lessons learned;
