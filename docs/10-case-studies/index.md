@@ -5,6 +5,7 @@
 ## Материалы
 
 - [Anthropic: harness design для long-running app development](anthropic-harness-design-long-running-apps.md)
+- [Anthropic: effective context engineering for AI agents](anthropic-effective-context-engineering.md)
 
 ## Что хранить в этом разделе
 
