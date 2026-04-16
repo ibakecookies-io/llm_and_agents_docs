@@ -4,7 +4,11 @@
 
 ## Материалы
 
+- [Anthropic: Building Effective AI Agents](anthropic-building-effective-ai-agents.md)
+- [Anthropic: Writing effective tools for AI agents](anthropic-writing-tools-for-ai-agents.md)
+- [Anthropic: How we built our multi-agent research system](anthropic-multi-agent-research-system.md)
 - [Anthropic: harness design для long-running app development](anthropic-harness-design-long-running-apps.md)
+- [Anthropic: effective context engineering for AI agents](anthropic-effective-context-engineering.md)
 
 ## Что хранить в этом разделе
 
