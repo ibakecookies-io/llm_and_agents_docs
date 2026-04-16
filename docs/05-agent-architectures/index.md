@@ -4,6 +4,7 @@
 
 ## Материалы
 
+- [Claude: Multi-agent coordination patterns](claude-multi-agent-coordination-patterns.md)
 - [Multi-agent coordination patterns](https://claude.com/blog/multi-agent-coordination-patterns), Claude Blog.
 
 ## Что хранить в этом разделе
