@@ -2,6 +2,11 @@
 
 Раздел про проектирование систем, в которых один или несколько агентов решают задачу совместно с инструментами, данными и управляющей логикой.
 
+## Материалы
+
+- [Claude: Multi-agent coordination patterns](claude-multi-agent-coordination-patterns.md)
+- [Multi-agent coordination patterns](https://claude.com/blog/multi-agent-coordination-patterns), Claude Blog.
+
 ## Что хранить в этом разделе
 
 - single-agent, supervisor, planner-executor, router и multi-agent схемы;
