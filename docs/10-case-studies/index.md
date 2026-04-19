@@ -9,6 +9,7 @@
 - [Anthropic: How we built our multi-agent research system](anthropic-multi-agent-research-system.md)
 - [Anthropic: harness design для long-running app development](anthropic-harness-design-long-running-apps.md)
 - [Anthropic: effective context engineering for AI agents](anthropic-effective-context-engineering.md)
+- [LangChain: Agentic Engineering — swarms of AI agents for software delivery](langchain-agentic-engineering-redefining-software-engineering.md)
 
 ## Что хранить в этом разделе
 
